@@ -1,0 +1,18 @@
+#table{
+  width: 50vw;
+  height: 10vh;
+  border: 2px solid black;
+  margin: auto;
+}
+
+#td{
+  width: 8vw;
+  height: 5vh;
+  border: 2px solid black;
+}
+
+#th{
+  width: 8vw;
+  height: 5vh;
+  border: 2px solid black;
+}
