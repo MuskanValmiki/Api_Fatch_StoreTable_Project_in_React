@@ -9,7 +9,7 @@ function App() {
     let data = await response.json()
     setData(data)
     // console.log(data)
-  }
+  } 
   useEffect(()=>{
     getData()
   },[])
